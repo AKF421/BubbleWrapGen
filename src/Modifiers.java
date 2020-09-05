@@ -17,7 +17,7 @@ public class Modifiers {
         return "__" + word + "__";
     }
 
-    public static String addSpoiler(String word){
-        return "||"+ word + "||";
-    }
+//    public static String addSpoiler(String word){
+//        return "||"+ word + "||";
+//    }
 }

@@ -6,17 +6,14 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         UserResponse response = new UserResponse();
 
-//        // Testing modifiers.
-//        System.out.println("Type the word you want to be modified.");
-//        String word = scanner.nextLine();
+//        System.out.println("How many rows do you want?");
+//        int rows = scanner.nextInt();
 //
-//        System.out.println("The word will now be underlined.");
-//        System.out.println(Modifiers.addUnderline(word));
+//        System.out.println("How many columns do you want?");
+//        int columns = scanner.nextInt();
 //
-//        // Test UserResponse class
-//        System.out.println("Enter a whole number.");
-//        String integer = scanner.nextLine();
-
-        System.out.println("This is another change.");
+//        TextGen textGen = new TextGen(rows, columns);
+//
+//        textGen.printBubbles();
     }
 }
